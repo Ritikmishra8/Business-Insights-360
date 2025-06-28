@@ -2,15 +2,11 @@
 
 Power Bi Project
 
----
-
 # Overview
 
 AtliQ Hardwares is a top computer hardware company from India. It sells quality products like PCs, keyboards, mice, and printers around the world.
 
 The company is known for innovation and has expanded globally, bringing new tech to homes and offices everywhere.
-
----
 
 # Table of Contents:
 
@@ -30,16 +26,11 @@ The company is known for innovation and has expanded globally, bringing new tech
 
 ● [Recommendations](#recommendations)
 
----
-
 # Business Model:
 
 AtliQ sells computer hardware across different regions. The company wants to improve decision-making and performance using better data and reporting tools.
 
 ![](BI%20360%20AtliQ%20Business%20Model.png)
-
----
-
 
 # Problem Statement:
 
@@ -51,8 +42,6 @@ AtliQ sells computer hardware across different regions. The company wants to imp
 
 ● Their competitor, Dale, uses modern data analytics to understand customers and perform better.
 
----
-
 # Objectives:
 
 ● Collect and analyze customer data and define KPIs (Key Performance Indicators).
@@ -63,14 +52,10 @@ AtliQ sells computer hardware across different regions. The company wants to imp
 
 ● Use analytics to understand customer habits and improve products and marketing, helping AtliQ grow and compete with Dale.
 
----
-
 # Data Model
 Preview the data model used in this project.
 
 ![](Data%20Model.png)
-
----
 
 # Dashboard preview:
 
@@ -80,15 +65,11 @@ Shows overall summary and quick access to all views.
 
 ![](Home%20Page.png)
 
----
-
 # Info Page
 
 Project details and navigation help.
 
 ![](Info-.png)
-
----
 
 # Support Page
 
@@ -96,15 +77,11 @@ Helps users understand terms and get help if needed.
 
 ![](Support.png)
 
----
-
 # Finance View
 
 View Profit & Loss (P&L) for any product, customer, or country, Filter by any time period
 
 ![](Finance%20View.png)
-
----
 
 # Sales View
 
@@ -112,15 +89,11 @@ See how customers are performing, Check Net Sales, Gross Margin, and other key m
 
 ![](Sales%20View.png)
 
----
-
 # Marketing View
 
 Track how products are selling, Analyze Net Sales, Profit %, and Growth
 
 ![](Marketing%20View.png)
-
----
 
 # Supply Chain View
 
@@ -128,15 +101,11 @@ Measure Forecast Accuracy, Net Error, Check risks in product stock
 
 ![](SupplyuChain%20View.png)
 
----
-
 # Executive View
 
 A high-level summary dashboard for managers and executives
 
 ![](Executive%20View.png)
-
----
 
 # Key Insights:
 
@@ -152,8 +121,6 @@ A high-level summary dashboard for managers and executives
 
 ● Gross margin dropped in 2020 but recovered well by 2022, showing strong growth.
 
----
-
 2) Sales View:
  
 ● Cost of Goods Sold (COGS) and Gross Margin stayed around 60:40 ratio.
@@ -163,8 +130,6 @@ A high-level summary dashboard for managers and executives
 ● In 2022, Amazon and e-Store missed the Gross Margin % target.
 
 ● Some regions (like the Philippines, Germany, Brazil, etc.) performed below the 10% GM% target range.
-
----
 
 3) Marketing View:
 
@@ -176,8 +141,6 @@ A high-level summary dashboard for managers and executives
 
 ● Keyboards and laptops were the most sold products.
 
----
-
 4) Supply Chain View
    
 ● Accessories (especially keyboards) often went out of stock due to high demand.
@@ -187,8 +150,6 @@ A high-level summary dashboard for managers and executives
 ● November and December had the most net errors (stockouts or overstock).
 
 ● Forecast accuracy dropped during COVID-19 but improved by 2022.
-
----
 
 5) Executive View 
 
@@ -203,8 +164,6 @@ A high-level summary dashboard for managers and executives
 ● AtliQ entered the market in 2020 and reached a 5.9% share by 2022, while Dale led with 22%.
 
 ● Year by year, sales and market share increased, but from 2021, net profit dropped a little.
-
----
 
 # Recommendations
 
