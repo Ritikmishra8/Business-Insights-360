@@ -10,13 +10,13 @@ The company is known for innovation and has expanded globally, bringing new tech
 
 # Table of Contents:
 
-● [Live Dashboard](#live-dashboard)
+● [Live Dashboard](#https://app.powerbi.com/links/wsw3XU5fO1?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
 ● [Business Model](#Business-model)
 
 ● [Problem Statement](#problem-statement)
 
-● [Objective](#objective)
+● [Objectives](#objectives)
 
 ● [Data Model](#data-model)
 
@@ -58,7 +58,7 @@ Preview the data model used in this project.
 
 ![](Data%20Model.png)
 
-# Dashboard Views:
+# Dashboard preview:
 
 # Home Page
 
