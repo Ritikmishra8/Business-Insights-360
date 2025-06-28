@@ -9,56 +9,56 @@ They are growing globally and want to make better business decisions using data.
 
 # Table of Contents:
 
-📊 [Live Dashboard](#live-dashboard)
+● [Live Dashboard](#live-dashboard)
 
-🧱 [Business Model](#Business-model)
+● [Business Model](#Business-model)
 
-❗ [Problem Statement](#problem-statement)
+● [Problem Statement](#problem-statement)
 
-🎯 [Objective](#objective)
+● [Objective](#objective)
 
-🧩 [Data Model](#data-model)
+● [Data Model](#data-model)
 
-👀 [Dashboard Preview](#dashboard-preview)
+● [Dashboard Preview](#dashboard-preview)
 
-💡 [Key Insights](#key-Insights)
+● [Key Insights](#key-Insights)
 
-✅ [Recommendations](#recommendations)
-
-🔗 Live Dashboard:
-👉 Click here to view [live dashboard](https://app.powerbi.com/links/wsw3XU5fO1?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=79ef9c25-235f-47cc-a6d1-155c6f91122d)
+● [Recommendations](#recommendations)
 
 # Business Model:
-![Business Model](bi%360%atliq%business%model.png)
+![](bi%360%atliq%business%model.png)
 
 
 # Problem Statement:
-AtliQ tried to enter the Latin America market but failed.
 
-They made decisions only based on Excel surveys and gut feeling (intuition), not proper data.
+● AtliQ tried to enter the Latin America market but failed. 
 
-They now face tough competition from Dale, who uses advanced data analysis.
+● They made decisions only based on Excel surveys and gut feeling (intuition), not proper data. 
 
-AtliQ needs a better system to track business data and make smart decisions.
+● They now face tough competition from Dale, who uses advanced data analysis. 
+
+● AtliQ needs a better system to track business data and make smart decisions.
 
 # Objectives:
-Collect and study customer and product data
 
-Set KPIs (Key Performance Indicators) to measure performance
+● Collect and study customer and product data. Set KPIs (Key Performance Indicators) to measure performance. 
 
-Create an interactive Power BI dashboard to help AtliQ make smart business decisions
+● Create an interactive Power BI dashboard to help AtliQ make smart business decisions.
 
-Build a 360° dashboard that covers: Finance, Sales, Marketing, Supply Chain, Executive View
+● Build a 360° dashboard that covers: Finance, Sales, Marketing, Supply Chain, Executive View.
 
-Use data to understand customer behavior and improve sales and marketing
+● Use data to understand customer behavior and improve sales and marketing.
 
-Compete with Dale and increase market share
+● Compete with Dale and increase market share.
 
 # Data Model:
 
-These are connected using relationships to build powerful reports
+● The dashboard uses a strong data model with different tables (like customers, sales, products, etc.)
 
-(data%model.png)
+● These are connected using relationships to build powerful reports
+
+
+![](data%model.png)
 
 # Dashboard Views:
 
@@ -66,127 +66,131 @@ These are connected using relationships to build powerful reports
 
 Overview of the dashboard
 
-(home%page.png)
+![](home%page.png)
 
 # Info Page
 
 Project details and navigation help
 
-(Info-%.png)
+![](Info-%.png)
 
 🆘 Support Page
+
 Contact/help information
 
-💰 Finance View
-View Profit & Loss (P&L) for any product, customer, or country
+![](support.png)
 
-Filter by any time period
+💰 Finance View
+
+View Profit & Loss (P&L) for any product, customer, or country, Filter by any time period
+
+![](finance%view.png)
 
 📈 Sales View
-See how customers are performing
 
-Check Net Sales, Gross Margin, and other key metrics
+See how customers are performing, Check Net Sales, Gross Margin, and other key metrics
+
+![](sales%view.png)
 
 📣 Marketing View
-Track how products are selling
 
-Analyze Net Sales, Profit %, and Growth
+Track how products are selling, Analyze Net Sales, Profit %, and Growth
+
+![](market%view.png)
 
 🚚 Supply Chain View
-Measure Forecast Accuracy, Net Error
 
-Check risks in product stock
+Measure Forecast Accuracy, Net Error, Check risks in product stock
+
+![](supplychain%view.png)
 
 🧑‍💼 Executive View
+
 A high-level summary dashboard for managers and executives
 
-💡 Feature Requests View
-Shows top markets, best/worst products based on Gross Margin %
+![](excecutive%view.png)
 
-Trend of post-deduction % over time
-
-💡 Key Insights:
+# Key Insights:
 🟢 Finance:
-Net Sales increased year by year
+● Net Sales increased year by year
 
-Highest demand in Nov & Dec (holiday season)
+● Highest demand in Nov & Dec (holiday season)
 
-Sales dropped in March 2020 (COVID impact)
+● Sales dropped in March 2020 (COVID impact)
 
-Net profit is low due to focus on growth
+● Net profit is low due to focus on growth
 
-Gross Margin recovered after COVID in 2022
+● Gross Margin recovered after COVID in 2022
 
 🟠 Sales:
-Cost of Goods Sold (COGS) vs Gross Margin = stable 60:40 ratio
+● Cost of Goods Sold (COGS) vs Gross Margin = stable 60:40 ratio
 
-Top sellers: Amazon, AtliQ Exclusive, AtliQ e-Store
+● Top sellers: Amazon, AtliQ Exclusive, AtliQ e-Store
 
-Some regions (like Philippines, Brazil) missed Gross Margin targets
+● Some regions (like Philippines, Brazil) missed Gross Margin targets
 
 🔵 Marketing:
-Notebook products had highest sales
+● Notebook products had highest sales
 
-Desktop segment grew fast after 2019
+● Desktop segment grew fast after 2019
 
-Networking had the highest profit %
+● Networking had the highest profit %
 
-Laptops and Keyboards sold the most
+● Laptops and Keyboards sold the most
 
 🟡 Supply Chain:
-Accessories (like keyboards) often go out of stock
+● Accessories (like keyboards) often go out of stock
 
-Desktops have too much inventory (not selling fast)
+● Desktops have too much inventory (not selling fast)
 
-Forecast accuracy dropped during COVID, but improved later
+● Forecast accuracy dropped during COVID, but improved later
 
-Highest errors happened in November–December due to demand spikes
+● Highest errors happened in November–December due to demand spikes
 
 🟣 Executive View:
-In 2022:
+● In 2022:
 
-PCs made 61% of revenue
+PCs made 61% of revenue,Peripherals 36%, Networking 2.5%
 
-Peripherals 36%, Networking 2.5%
+● Revenue sources:
 
-Revenue sources:
+● 71% from Retailers
 
-71% from Retailers
+● 18% from Direct Sales
 
-18% from Direct Sales
+● 10% from Distributors
 
-10% from Distributors
+● Amazon was top customer
 
-Amazon was top customer
+● Top zones: North America, India, and Rest of Asia
 
-Top zones: North America, India, and Rest of Asia
-
-Competitor Dale has 22% market share; AtliQ grew to 5.9% in 2022
+● Competitor Dale has 22% market share; AtliQ grew to 5.9% in 2022
 
 ✅ Recommendations:
-Fix Inventory Issues:
 
-Avoid stockouts (especially keyboards)
+● Fix Inventory Issues:
 
-Reduce overstock (especially desktops)
+● Avoid stockouts (especially keyboards)
 
-Focus on Weak Regions:
+● Reduce overstock (especially desktops)
 
-Improve sales in Philippines, Brazil, Germany
+● Focus on Weak Regions:
 
-Offer promotions or change pricing
+● Improve sales in Philippines, Brazil, Germany
 
-Improve Forecasting:
+● Offer promotions or change pricing
 
-Use better tools for November–December peak seasons
+● Improve Forecasting:
 
-Expand Sales Channels:
+● Use better tools for November–December peak seasons
 
-Strengthen retailers
+● Expand Sales Channels:
+ 
+● Strengthen retailers
 
-Also grow direct and distributor sales
+● Also grow direct and distributor sales
 
-Beat Competitor Dale:
+● Beat Competitor Dale:
 
 Add new product features
 
