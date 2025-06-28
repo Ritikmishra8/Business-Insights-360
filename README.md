@@ -4,8 +4,9 @@ Power Bi Project
 
 # Overview
 
-AtliQ Hardwares is a famous Indian computer brand. They make and sell products like PCs, keyboards, mouse, and printers.
-They are growing globally and want to make better business decisions using data.
+AtliQ Hardwares is a top computer hardware company from India. It sells quality products like PCs, keyboards, mice, and printers around the world.
+
+The company is known for innovation and has expanded globally, bringing new tech to homes and offices everywhere.
 
 # Table of Contents:
 
@@ -26,180 +27,152 @@ They are growing globally and want to make better business decisions using data.
 ● [Recommendations](#recommendations)
 
 # Business Model:
-![](bi%360%atliq%business%model.png)
+
+AtliQ sells computer hardware across different regions. The company wants to improve decision-making and performance using better data and reporting tools.
+
+![](BI%20360%20AtliQ%20Business%20Model.png)
 
 
 # Problem Statement:
 
-● AtliQ tried to enter the Latin America market but failed. 
+● AtliQ tried to grow in Latin America but failed. They made decisions based only on Excel surveys and guesses.
 
-● They made decisions only based on Excel surveys and gut feeling (intuition), not proper data. 
+● As the company grew fast, Excel became slow and not useful for complex decisions.
 
-● They now face tough competition from Dale, who uses advanced data analysis. 
+● They don’t have a strong data system, so they struggle to make fast and accurate choices.
 
-● AtliQ needs a better system to track business data and make smart decisions.
+● Their competitor, Dale, uses modern data analytics to understand customers and perform better.
 
 # Objectives:
 
-● Collect and study customer and product data. Set KPIs (Key Performance Indicators) to measure performance. 
+● Collect and analyze customer data and define KPIs (Key Performance Indicators).
 
-● Create an interactive Power BI dashboard to help AtliQ make smart business decisions.
+● Create a dashboard using Power BI to help AtliQ with clear and fast decisions.
 
-● Build a 360° dashboard that covers: Finance, Sales, Marketing, Supply Chain, Executive View.
+● Build a 360° dashboard showing important insights from Finance, Sales, Marketing, Supply Chain, and Executive View — all in one place.
 
-● Use data to understand customer behavior and improve sales and marketing.
+● Use analytics to understand customer habits and improve products and marketing, helping AtliQ grow and compete with Dale.
 
-● Compete with Dale and increase market share.
+# Data Model
+Preview the data model used in this project.
 
-# Data Model:
-
-● The dashboard uses a strong data model with different tables (like customers, sales, products, etc.)
-
-● These are connected using relationships to build powerful reports
-
-
-![](data%model.png)
+![](Data%20Model.png)
 
 # Dashboard Views:
 
 🏠 Home Page
 
-Overview of the dashboard
+Shows overall summary and quick access to all views.
 
-![](home%page.png)
+![](Home%20Page.png)
 
 # Info Page
 
-Project details and navigation help
+Project details and navigation help.
 
-![](Info-%.png)
+![](Info-.png)
 
 🆘 Support Page
 
-Contact/help information
+Helps users understand terms and get help if needed.
 
-![](support.png)
+![](Support.png)
 
 💰 Finance View
 
 View Profit & Loss (P&L) for any product, customer, or country, Filter by any time period
 
-![](finance%view.png)
+![](Finance%20View.png)
 
 📈 Sales View
 
 See how customers are performing, Check Net Sales, Gross Margin, and other key metrics
 
-![](sales%view.png)
+![](Sales%20View.png)
 
 📣 Marketing View
 
 Track how products are selling, Analyze Net Sales, Profit %, and Growth
 
-![](market%view.png)
+![](Marketing%20View.png)
 
 🚚 Supply Chain View
 
 Measure Forecast Accuracy, Net Error, Check risks in product stock
 
-![](supplychain%view.png)
+![](SupplyuChain%20View.png)
 
 🧑‍💼 Executive View
 
 A high-level summary dashboard for managers and executives
 
-![](excecutive%view.png)
+![](Executive%20View.png)
 
 # Key Insights:
-🟢 Finance:
-● Net Sales increased year by year
+1) Finance View
+● Net sales increased every year, with peaks in November–December (holiday season).
 
-● Highest demand in Nov & Dec (holiday season)
+● In March 2020, sales dropped due to COVID-19.
 
-● Sales dropped in March 2020 (COVID impact)
+● By 2022, sales nearly hit the target (missed by just 1.5%).
 
-● Net profit is low due to focus on growth
+● Net profit dropped slightly due to company expansion.
 
-● Gross Margin recovered after COVID in 2022
+● Gross margin dropped in 2020 but recovered well by 2022, showing strong growth.
 
-🟠 Sales:
-● Cost of Goods Sold (COGS) vs Gross Margin = stable 60:40 ratio
-
-● Top sellers: Amazon, AtliQ Exclusive, AtliQ e-Store
-
-● Some regions (like Philippines, Brazil) missed Gross Margin targets
-
-🔵 Marketing:
-● Notebook products had highest sales
-
-● Desktop segment grew fast after 2019
-
-● Networking had the highest profit %
-
-● Laptops and Keyboards sold the most
-
-🟡 Supply Chain:
-● Accessories (like keyboards) often go out of stock
-
-● Desktops have too much inventory (not selling fast)
-
-● Forecast accuracy dropped during COVID, but improved later
-
-● Highest errors happened in November–December due to demand spikes
-
-🟣 Executive View:
-● In 2022:
-
-PCs made 61% of revenue,Peripherals 36%, Networking 2.5%
-
-● Revenue sources:
-
-● 71% from Retailers
-
-● 18% from Direct Sales
-
-● 10% from Distributors
-
-● Amazon was top customer
-
-● Top zones: North America, India, and Rest of Asia
-
-● Competitor Dale has 22% market share; AtliQ grew to 5.9% in 2022
-
-✅ Recommendations:
-
-● Fix Inventory Issues:
-
-● Avoid stockouts (especially keyboards)
-
-● Reduce overstock (especially desktops)
-
-● Focus on Weak Regions:
-
-● Improve sales in Philippines, Brazil, Germany
-
-● Offer promotions or change pricing
-
-● Improve Forecasting:
-
-● Use better tools for November–December peak seasons
-
-● Expand Sales Channels:
+2) Sales View:
  
-● Strengthen retailers
+● Cost of Goods Sold (COGS) and Gross Margin stayed around 60:40 ratio.
 
-● Also grow direct and distributor sales
+● Amazon, AtliQ Exclusive, and e-Store had the highest sales.
 
-● Beat Competitor Dale:
+● In 2022, Amazon and e-Store missed the Gross Margin % target.
 
-Add new product features
+● Some regions (like the Philippines, Germany, Brazil, etc.) performed below the 10% GM% target range.
 
-Offer better prices
+3) Marketing View:
 
-Do smart marketing
+● Notebooks had the highest Net Sales in all years.
 
-Support High-Performing Segments:
+● Desktops weren't sold in 2019 but grew well in Net Profit % and GM% after.
 
-Invest more in Notebooks and Networking
+● Networking products had the best Net Profit %.
 
-Add more laptop and accessory options
+● Keyboards and laptops were the most sold products.
+
+4) Supply Chain View
+● Accessories (especially keyboards) often went out of stock due to high demand.
+
+● Desktops had too much stock, likely because laptops were selling more.
+
+● November and December had the most net errors (stockouts or overstock).
+
+● Forecast accuracy dropped during COVID-19 but improved by 2022.
+
+5) Executive View 
+
+● In 2022, PCs gave the highest revenue (61%), followed by Accessories (36%) and Networking & Storage (2.5%).
+
+● Most revenue came from retailers (71%), then direct sales (18%), and distributors (10%).
+
+● Amazon was the top customer, and laptop variants from the Desktop segment sold the most.
+
+● Three regions gave 75% of total revenue: North America (27%), India (25%), and Rest of Asia (21%).
+
+● AtliQ entered the market in 2020 and reached a 5.9% share by 2022, while Dale led with 22%.
+
+● Year by year, sales and market share increased, but from 2021, net profit dropped a little.
+
+Recommendations
+
+● Improve supply chain to reduce stockouts (Accessories) and overstock (Desktops).
+
+● Focus on underperforming regions like Brazil, Germany, and Philippines with better pricing and promotions.
+
+● Invest in better forecasting tools to handle peak months like November & December.
+
+● Strengthen retail partnerships (since they bring 71% revenue), but also grow direct and distributor sales.
+
+● Compete better with Dale by adding new features, better pricing, and strong marketing.
+
+● Invest more in top-performing segments like Notebooks and Networking and expand high-demand products like laptops and accessories.
