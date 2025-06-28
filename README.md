@@ -60,7 +60,7 @@ Preview the data model used in this project.
 
 # Dashboard Views:
 
-🏠 Home Page
+# Home Page
 
 Shows overall summary and quick access to all views.
 
@@ -72,44 +72,46 @@ Project details and navigation help.
 
 ![](Info-.png)
 
-🆘 Support Page
+# Support Page
 
 Helps users understand terms and get help if needed.
 
 ![](Support.png)
 
-💰 Finance View
+# Finance View
 
 View Profit & Loss (P&L) for any product, customer, or country, Filter by any time period
 
 ![](Finance%20View.png)
 
-📈 Sales View
+# Sales View
 
 See how customers are performing, Check Net Sales, Gross Margin, and other key metrics
 
 ![](Sales%20View.png)
 
-📣 Marketing View
+# Marketing View
 
 Track how products are selling, Analyze Net Sales, Profit %, and Growth
 
 ![](Marketing%20View.png)
 
-🚚 Supply Chain View
+# Supply Chain View
 
 Measure Forecast Accuracy, Net Error, Check risks in product stock
 
 ![](SupplyuChain%20View.png)
 
-🧑‍💼 Executive View
+# Executive View
 
 A high-level summary dashboard for managers and executives
 
 ![](Executive%20View.png)
 
 # Key Insights:
+
 1) Finance View
+   
 ● Net sales increased every year, with peaks in November–December (holiday season).
 
 ● In March 2020, sales dropped due to COVID-19.
@@ -141,6 +143,7 @@ A high-level summary dashboard for managers and executives
 ● Keyboards and laptops were the most sold products.
 
 4) Supply Chain View
+   
 ● Accessories (especially keyboards) often went out of stock due to high demand.
 
 ● Desktops had too much stock, likely because laptops were selling more.
@@ -163,7 +166,7 @@ A high-level summary dashboard for managers and executives
 
 ● Year by year, sales and market share increased, but from 2021, net profit dropped a little.
 
-Recommendations
+# Recommendations
 
 ● Improve supply chain to reduce stockouts (Accessories) and overstock (Desktops).
 
